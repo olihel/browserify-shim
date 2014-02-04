@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "through": "~2.3.4",
-    "find-parent-dir": "git+ssh://git@github.com/olihel/find-parent-dir.git",
+    "find-parent-dir": "https://github.com/olihel/find-parent-dir/tarball/dd11e271bc438595e1cf4e4dffb787a77c38459b",
     "resolve": "~0.6.1",
     "exposify": "~0.1.2"
   },
